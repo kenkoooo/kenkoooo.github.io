@@ -7,10 +7,11 @@
 
 ## Experience
 
-- Software Engineer at Recruit Communications Co., Ltd., 2019-
-- Software Engineer at SoundHound Inc., 2017-2019
-- Software Engineer at Recruit Communications Co., Ltd., 2016-2017
-- Software Engineer at National Institute of Informatics, 2015-2016
+- 2019- : Software Engineer at Indeed Inc. 
+- 2017-2019 : Software Engineer at SoundHound Inc.
+- 2016-2017 : Software Engineer at Recruit Communications Co., Ltd.
+- 2015-2016 : Software Engineer at National Institute of Informatics
+- 2014-2015 : NEET at Home
 
 ## Education
 - Bachelor of Science, University of Tokyo, 2010-2014
