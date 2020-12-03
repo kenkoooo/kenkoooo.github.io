@@ -1,5 +1,3 @@
-# Kenkou Nakamura
-
 ## Applications
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/)
@@ -18,11 +16,8 @@
 
 ## Publication
 - [Fractality of Massive Graphs: Scalable Analysis with Sketch-Based Box-Covering Algorithm](https://arxiv.org/abs/1609.07994)
-  - Takuya Akiba, Kenko Nakamura, Taro Takaguchi
-  - IEEE International Conference on Data Mining (ICDM 2016)
 
 ## Links
 - [GitHub](https://github.com/kenkoooo)
 - [AtCoder](https://atcoder.jp/users/kenkoooo)
 - [Blog](https://kenkoooo.hatenablog.com/)
-- [LinkedIn](https://www.linkedin.com/in/kenkou-nakamura-588951b2/)
