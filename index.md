@@ -5,7 +5,8 @@
 
 ## Experience
 
-- 2019- : Software Engineer at Indeed Inc. 
+- 2022- : Software Engineer at estie inc.
+- 2019-2022 : Software Engineer at Indeed Inc. 
 - 2017-2019 : Software Engineer at SoundHound Inc.
 - 2016-2017 : Software Engineer at Recruit Communications Co., Ltd.
 - 2015-2016 : Software Engineer at National Institute of Informatics
